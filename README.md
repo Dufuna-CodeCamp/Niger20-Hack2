@@ -1,4 +1,4 @@
-# Niger20-Hack2 :flag:
+# Niger20-Hack2  🚩
 Team Niger 2020, Hackathon 2 Repository
 
 This README explains how to get started with this repository.
